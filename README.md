@@ -9,6 +9,6 @@ My name is Laurence Miguel A. Ibarra and I am an aspiring AI/ML Engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,git,visualstudio,vscode&perline=3"/><b>
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,python,git,visualstudio,vscode&perline=3"/><b>
   </a>
 </p>
